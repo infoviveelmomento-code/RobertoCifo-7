@@ -33,10 +33,8 @@
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ Email: *(puedes añadir uno si quieres)*  
-- 💼 LinkedIn: *(si lo tienes)*  
-- 🌐 Blog/Web personal: *(cuando tengas una)*  
-
+- ✉️ Email: *info.viveelmomento@gmail.com*  
+ 
 ---
 
 ✨ Gracias por visitar mi perfil. ¡Vamos a aprender y construir juntos!
